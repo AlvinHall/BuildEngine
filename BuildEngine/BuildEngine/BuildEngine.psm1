@@ -1,6 +1,5 @@
-<#
-	My Function
-#>
-function Get-Function {
-
-}
+Function Install-MSI {}
+Function Install-WindowsUpdate {}
+Function Install-PowerShellScript {}
+Function Install-CommandLine {}
+Function Get-Hotfixes {}
